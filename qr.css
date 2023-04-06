@@ -1,0 +1,48 @@
+body
+{
+    text-align: center;
+    background-color: hsl(212, 45%, 89%);
+}
+
+.white-container
+{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 25px;
+    height: 460px;
+    width: 290px;
+    margin: 150px auto 120px auto;
+}
+
+.intro-1
+{
+    width: 250px;
+    height: 80px;
+    margin: auto;
+    font-size: 20px;
+    font-family:'Outfit', sans-serif;
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+}
+
+.intro-2
+{
+    width: 250px;
+    height: 80px;
+    margin: auto;
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+
+}
+
+.scanner-image
+{
+    width: 250px;
+    height: 250px;
+    margin: 2px auto auto auto;
+    border-radius: 25px;
+    padding: 20px;
+}
+
+
